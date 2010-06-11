@@ -29,6 +29,7 @@ Glen dV
 Sergei R
 Vlad Y
 Avigail E
+Michelle M
 
 Pool 2:
 Carlos C
@@ -45,3 +46,4 @@ Bernie P
 Glen dV
 Sergei R
 Vlad Y
+Michelle M
