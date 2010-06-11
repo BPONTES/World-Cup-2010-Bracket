@@ -1,0 +1,31 @@
+Group A
+1Mexico
+2South Africa
+ 
+B
+1Argentina
+2Nigeria
+ 
+C
+1USA
+2England
+ 
+D
+1Germany
+2Australia
+ 
+E
+1Netherlands
+2Cameroon
+ 
+F
+1Paraguay
+2Italy
+ 
+G
+1Brazil
+2Portugal
+ 
+H
+1Chile
+2Spain
